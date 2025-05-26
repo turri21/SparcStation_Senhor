@@ -1,5 +1,5 @@
 
-Author: Grabulosaure
+Author: [Grabulosaure](https://github.com/Grabulosaure)
 
 There are two versions
 - SparcStation5 : Single CPU. MicroSparcII compatible CPU. Up to around 65MHz. SS5 is compatible with all the OSes which supported actual Sun4m SparcStations : Linux, NetBSD, OpenBSD, SunOS, Solaris, NextSTEP. Some OSes requires a special configuration.
