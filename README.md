@@ -9,6 +9,8 @@ There are two versions
 Use OS images in http://temlib.org/pub/mister/SS/ , passwords are the OS names, uppercase and lowercase characters. You can also make your own images using QEMU, or a real SparcStation.
 
 The Ethernet interface isn't enabled on MiSTer. It used to work on the Xilinx board with a direct MII PHY.
+
+Source: https://misterfpga.org/viewtopic.php?t=4421
 ___
 The core requires boot.rom to be copied in games/SparcStation
 
