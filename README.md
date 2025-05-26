@@ -3,6 +3,8 @@
 When you load the core you will have to wait about 1 minute and 20 seconds
 for the video to appear. The core works like that and it's not a bug.
 
+The core requires boot.rom to be copied in games/SparcStation
+
 
 There are two compilation modes
 - SS5 : SparcStation 5 : Single CPU. MicroSparcII compatible CPU. Up to around 65MHz. SS5 is compatible with all the OSes which supported actual Sun4m SparcStations : Linux, NetBSD, OpenBSD, SunOS, Solaris, NextSTEP. Some OSes requires a special configuration.
