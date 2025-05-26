@@ -14,7 +14,7 @@ The core requires boot.rom to be copied in games/SparcStation
 When you load the core you will have to wait about 1 minute and 20 seconds
 for the video to appear. The core works like that and it's not a bug.
 
-Instructions to boot NeXTSTEP:
+Instructions to boot NeXT STEP:
 
 Load the SparcStation5 core and then in the OSD menu do the following:
 - "Mount *.RAW" : Select next.raw file
