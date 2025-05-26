@@ -10,6 +10,8 @@ Use OS images in http://temlib.org/pub/mister/SS/ , passwords are the OS names, 
 
 The Ethernet interface isn't enabled on MiSTer. It used to work on the Xilinx board with a direct MII PHY.
 
+Currently it has no sound support.
+
 Source: https://misterfpga.org/viewtopic.php?t=4421
 ___
 The core requires boot.rom to be copied in games/SparcStation
