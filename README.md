@@ -5,6 +5,18 @@ for the video to appear. The core works like that and it's not a bug.
 
 The core requires boot.rom to be copied in games/SparcStation
 
+Instructions to boot NeXTSTEP:
+
+Load the SparcStation core and then in the OSD menu do the following:
+- "Mount *.RAW" : Select next.raw file
+- Select IOMMU rev: 11
+
+Wait for 2'30"
+
+Type "-v" in boot menu
+
+Type Ctrl-C when waiting for network configuration server.
+
 
 There are two compilation modes
 - SS5 : SparcStation 5 : Single CPU. MicroSparcII compatible CPU. Up to around 65MHz. SS5 is compatible with all the OSes which supported actual Sun4m SparcStations : Linux, NetBSD, OpenBSD, SunOS, Solaris, NextSTEP. Some OSes requires a special configuration.
